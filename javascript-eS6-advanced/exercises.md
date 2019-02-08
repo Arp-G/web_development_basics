@@ -54,7 +54,7 @@ DOM and Events
         <div id="products">
             <div class="content">
                 <span class="product-name">Oranges</span>
-                <span class="product-quantity" data-quantity="4">6</span>
+                <span class="product-quantity" data-quantity="6">6</span>
                 <span class="product-price" data-price="200">Rs.200.00 a dozen</span>
             </div>
             <div class="content">
